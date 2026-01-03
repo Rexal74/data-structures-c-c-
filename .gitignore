@@ -1,0 +1,9 @@
+# compiled outputs
+*.out
+*.exe
+*.o
+a.out
+
+# macOS
+.DS_Store
+

@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "__bit_reference": "cpp",
+        "__node_handle": "cpp",
+        "optional": "cpp",
+        "sstream": "cpp",
+        "tuple": "cpp",
+        "vector": "cpp"
+    }
+}
